@@ -1,2 +1,3 @@
 # Password-Generator
 A Password Generator web applications which is basically a read-only app. It can generates from 4 to 20 digits strong password for security... 
+It is basically built on HTML,CSS and javascript. It clears basic fundamental concepts of javascript and for some basic practice.
